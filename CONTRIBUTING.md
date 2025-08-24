@@ -228,7 +228,7 @@ Follow **semantic versioning**:
 
 ### 📞 **Support Channels**
 
-- **[GitHub Issues](https://github.com/neo-project/neo-unity-sdk/issues)** - Bug reports and feature requests
+- **[GitHub Issues](https://github.com/r3e-network/NeoUnity3D/issues)** - Bug reports and feature requests
 - **[Neo Discord](https://discord.gg/neo)** - Community chat and support
 - **[Unity Forums](https://forum.unity.com/)** - Unity-specific questions
 - **[Stack Overflow](https://stackoverflow.com/questions/tagged/neo-blockchain+unity)** - Technical Q&A

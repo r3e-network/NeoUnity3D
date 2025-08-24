@@ -42,7 +42,7 @@ Transform your Unity games with seamless Neo blockchain integration. Build next-
 1. **Via Unity Package Manager:**
    ```
    Window → Package Manager → + → Add package from git URL
-   https://github.com/neo-project/neo-unity-sdk.git
+   https://github.com/r3e-network/NeoUnity3D.git
    ```
 
 2. **Via Package Manager JSON:**
@@ -131,7 +131,7 @@ Neo.Unity.SDK/
 
 ### Building from Source
 ```bash
-git clone https://github.com/neo-project/neo-unity-sdk.git
+git clone https://github.com/r3e-network/NeoUnity3D.git
 cd neo-unity-sdk
 # Open in Unity 2021.3+
 ```
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Neo Official Website](https://neo.org)**
 - **[Neo Developer Documentation](https://docs.neo.org)**
 - **[Discord Community](https://discord.gg/neo)**
-- **[GitHub Issues](https://github.com/neo-project/neo-unity-sdk/issues)**
+- **[GitHub Issues](https://github.com/r3e-network/NeoUnity3D/issues)**
 
 ---
 

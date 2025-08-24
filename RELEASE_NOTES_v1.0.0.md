@@ -291,7 +291,7 @@ Comprehensive wallet showcase:
 ### 🌐 **Connect With Us**
 
 **Development Team**:
-- **GitHub**: https://github.com/neo-project/neo-unity-sdk
+- **GitHub**: https://github.com/r3e-network/NeoUnity3D
 - **Discord**: https://discord.gg/neo-unity-sdk
 - **Email**: unity-sdk@neo.org
 - **Website**: https://neo.org/unity
