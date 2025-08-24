@@ -1,0 +1,18 @@
+{
+    "name": "Neo.Unity.SDK.Editor",
+    "rootNamespace": "Neo.Unity.SDK.Editor",
+    "references": [
+        "Neo.Unity.SDK"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

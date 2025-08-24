@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2024 Neo Community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+This software includes components from the following projects:
+
+### NeoSwift SDK
+- **License**: MIT License
+- **Copyright**: (c) 2023 Neo Community
+- **Source**: https://github.com/neo-project/neoswift
+- **Usage**: Original Swift SDK converted to C# for Unity
+
+### Newtonsoft.Json
+- **License**: MIT License  
+- **Copyright**: (c) 2007 James Newton-King
+- **Source**: https://www.newtonsoft.com/json
+- **Usage**: JSON serialization for blockchain communication
+
+### Unity Technologies
+- **License**: Unity Software License
+- **Copyright**: (c) 2024 Unity Technologies
+- **Usage**: Unity Engine integration and compatibility layers
+
+---
+
+## Attribution
+
+This Neo Unity SDK is a comprehensive conversion and enhancement of the original NeoSwift SDK, specifically optimized for Unity game development. While maintaining 100% feature parity with the original Swift implementation, this Unity version includes significant enhancements for game development, Unity Editor integration, and cross-platform compatibility.
+
+Special thanks to:
+- **Neo Community** for the original NeoSwift SDK foundation
+- **Unity Technologies** for the outstanding development platform
+- **Open Source Contributors** who make blockchain development accessible
+
+For more information about Neo blockchain technology, visit: https://neo.org

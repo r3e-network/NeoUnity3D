@@ -1,0 +1,23 @@
+{
+    "name": "Neo.Unity.SDK",
+    "rootNamespace": "Neo.Unity.SDK",
+    "references": [
+        "Unity.Addressables",
+        "Unity.Nuget.Newtonsoft-Json"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.nuget.newtonsoft-json",
+            "expression": "3.2.1",
+            "define": "NEO_NEWTONSOFT_JSON"
+        }
+    ],
+    "noEngineReferences": false
+}
